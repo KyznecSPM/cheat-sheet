@@ -1,7 +1,7 @@
 {
-  "name": "ts-helpers",
+  "name": "programming-tasks",
   "version": "1.0.0",
-  "description": "custom typescript utilitys",
+  "description": "CS tasks, JS/TS tasks, concepts, patterns, etc.",
   "main": "index.ts",
   "scripts": {
     "test": "jest",
