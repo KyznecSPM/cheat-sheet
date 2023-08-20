@@ -1,7 +1,7 @@
 {
-  "name": "programming-tasks",
+  "name": "cheat-sheet",
   "version": "1.0.0",
-  "description": "CS tasks, JS/TS tasks, concepts, patterns, etc.",
+  "description": "CS, patterns, etc.",
   "main": "index.ts",
   "scripts": {
     "test": "jest",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KyznecSPM/ts-helpers.git"
+    "url": "git+https://github.com/KyznecSPM/cheat-sheet.git"
   },
   "keywords": [
     "ts",
@@ -19,9 +19,9 @@
   "author": "Emelianov D.O.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KyznecSPM/ts-helpers/issues"
+    "url": "https://github.com/KyznecSPM/cheat-sheet/issues"
   },
-  "homepage": "https://github.com/KyznecSPM/ts-helpers#readme",
+  "homepage": "https://github.com/KyznecSPM/cheat-sheet#readme",
   "dependencies": {
     "typescript": "^4.2.3"
   },
